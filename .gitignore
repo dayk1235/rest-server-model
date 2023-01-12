@@ -1,0 +1,12 @@
+
+#Ignora los paquetes node modules
+node_modules/ 
+
+#Ignora variables de entorno 
+.env
+
+uploads/
+
+
+
+
